@@ -26,3 +26,4 @@ localhost:8000
 ## Goals
 
 + You are encouraged to run the code and tinker with the different elements
++ Modify the response to include the users' email in the greetings
